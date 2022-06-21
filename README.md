@@ -1,4 +1,4 @@
-# Image-recognition
+# Image-Recognition
 Creating image recognition pipeline with low amount of data
 
 General Idea is to find out features on individual images from both Database and Test folder and then get the name of image pairs where number of matched features is maximum. I have tried 2 techniques: using basic image processing and using latest deep learning method.
