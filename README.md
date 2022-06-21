@@ -1,6 +1,20 @@
 # Image-Recognition
 Creating image recognition pipeline with low amount of data
 
+
+### PROBLEM STATEMENT
+#### BACKGROUND:
+Muzzle is the area between a cow or a buffalo’s nostrils. This region contains a pattern of beads and ridges which is unique to each and every cattle, similar to fingerprints in humans. We are in the process of developing a novel solution to create a unique identity for cattle, similar to Adhar.
+
+#### PROBLEM: 
+1.	In the Images.zip attachment, there are 2 folders named Database and Test. 
+2.	Under Database folder, there are 20 images belonging to 20 different cattle.
+3.	Under Test folder there are 5 test images, belonging to 5 different cattle.
+4.	Define an algorithm that would identify a Test Cattle image in a database of many cattle images. 
+5.	Given a random Test Image, the algo should return the corresponding database image. Else return “Not Found”.  
+
+
+### Solution
 General Idea is to find out features on individual images from both Database and Test folder and then get the name of image pairs where number of matched features is maximum. I have tried 2 techniques: using basic image processing and using latest deep learning method.
 1.	Feature Detection: 
 Here I have used 2 methods:
