@@ -4,7 +4,7 @@ Creating image recognition pipeline with low amount of data
 
 ### PROBLEM STATEMENT
 #### BACKGROUND:
-Muzzle is the area between a cow or a buffalo’s nostrils. This region contains a pattern of beads and ridges which is unique to each and every cattle, similar to fingerprints in humans. We are in the process of developing a novel solution to create a unique identity for cattle, similar to Aadhar.
+Muzzle is the area between a cow or a buffalo’s nostrils. This region contains a pattern of beads and ridges which is unique to each and every cattle, similar to fingerprints in humans. This process is developing a novel solution to create a unique identity for cattle, similar to Aadhar idenity card.
 
 #### PROBLEM: 
 1.	In the Images.zip attachment, there are 2 folders named Database and Test. 
